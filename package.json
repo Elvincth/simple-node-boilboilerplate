@@ -4,6 +4,7 @@
   "main": "src/main.ts",
   "license": "MIT",
   "private": true,
+  "type": "module",
   "scripts": {
     "launch": "node launch.js",
     "dev": "concurrently \"yarn watch-compile\" \"yarn watch-dev\"",
