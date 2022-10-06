@@ -1,5 +1,5 @@
 {
-  "name": "apple-iphone-bot",
+  "name": "simple-node-boilerplate",
   "version": "0.0.1",
   "main": "src/main.ts",
   "license": "MIT",
